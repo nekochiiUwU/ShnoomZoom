@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="SphereShape" id=1]
+radius = 0.4
+
+[node name="Player" type="KinematicBody"]
+
+[node name="CSGCylinder" type="CSGSphere" parent="."]
+radius = 0.4
+radial_segments = 16
+rings = 8
+
+[node name="CollisionShape" type="CollisionShape" parent="."]
+shape = SubResource( 1 )
