@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lilmage.glb-8dc613c8ff88549436998fe39386691a.scn"
+path="res://.import/lilmage.glb-c8556fe3fe80ddac705428202e31c053.scn"
 
 [deps]
 
-source_file="res://lilmage.glb"
-dest_files=[ "res://.import/lilmage.glb-8dc613c8ff88549436998fe39386691a.scn" ]
+source_file="res://ressources/lilmage.glb"
+dest_files=[ "res://.import/lilmage.glb-c8556fe3fe80ddac705428202e31c053.scn" ]
 
 [params]
 
